@@ -18,38 +18,38 @@
       <v-row>
         <v-col class="text--secondary" cols="auto">
           <br><br>
-          <v-img max-height="200" max-width="200" src="https://i0.statig.com.br/bancodeimagens/78/pt/gs/78ptgsfeddfh638dkkzya5p3y.jpg"></v-img>
+          <v-img max-height="200" max-width="200" src="https://t1.ea.ltmcdn.com/pt/razas/5/3/7/vira-lata-caramelo_735_0_600.jpg"></v-img>
           <br>
           <v-btn color="indigo lighten-3" @click="cachorros">Cachorros</v-btn>
         </v-col>
         <v-col class="text--secondary" cols="auto">
           <br><br>
-          <v-img max-height="200" max-width="200" src="https://mytxai.pet/wp-content/uploads/2018/03/Artboard-1.png"></v-img>
+          <v-img max-height="188" max-width="225" src="https://www.petz.com.br/blog/wp-content/uploads/2021/11/enxoval-para-gato-Copia.jpg"></v-img>
           <br>
           <v-btn color="indigo lighten-3" @click="gatos">Gatos</v-btn>
         </v-col>
         <v-col class="text--secondary" cols="auto">
           <br><br>
-          <v-img max-height="200" max-width="200" src="https://www.petz.com.br/blog/wp-content/uploads/2020/07/adocao-de-coelho.jpg"></v-img>
+          <v-img max-height="188" max-width="205" src="https://www.petz.com.br/blog/wp-content/uploads/2020/07/adocao-de-coelho.jpg"></v-img>
           <br>
           <v-btn color="indigo lighten-3" @click="coelhos">Coelhos</v-btn>
         </v-col>
         <v-col class="text--secondary" cols="auto">
           <br><br>
-          <v-img max-height="200" max-width="200" src="https://ivensmiranda.files.wordpress.com/2016/11/cd-canto-campainha-canario-belga-original-p-aves-em-gaiola-15814-mlb20109008167_062014-f.jpg"></v-img>
+          <v-img max-height="188" max-width="187" src="https://ivensmiranda.files.wordpress.com/2016/11/cd-canto-campainha-canario-belga-original-p-aves-em-gaiola-15814-mlb20109008167_062014-f.jpg"></v-img>
           <br>
           <v-btn color="indigo lighten-3" @click="passaros">Passaros</v-btn>
         </v-col>
         <v-col class="text--secondary" cols="auto">
           <br><br>
-          <v-img max-height="200" max-width="200" src="https://www.petz.com.br/blog/wp-content/uploads/2020/05/como-criar-tartaruga-1280x720.jpg"></v-img>
+          <v-img max-height="188" max-width="188" src="https://t2.uc.ltmcdn.com/pt/posts/1/6/2/como_saber_se_minha_tartaruga_esta_hibernando_16261_600.jpg"></v-img>
           <br>
           <v-btn color="indigo lighten-3" @click="outros">Outros Animais</v-btn>
         </v-col>
       </v-row>
     </v-container>
   </v-container>
-</template>>
+</template>
 
 <script>
 export default{

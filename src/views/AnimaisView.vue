@@ -1,6 +1,6 @@
 <template>
   <v-container class="pa-8" fluid>
-    <v-col class="h2">Cadastre o seu animal</v-col>
+    <v-col class="h1">Cadastre o seu animal</v-col>
     <v-card-text>
       <v-form class="px-3">
         <v-text-field label="Nome do Animal" v-model="nomeanimal"></v-text-field>
@@ -15,6 +15,7 @@
         <v-text-field label="E-mail Doador" v-model="email"></v-text-field>
         <v-text-field label="Cidade Doador" v-model="cidade"></v-text-field>
         <v-text-field label="URL foto Animal" v-model="foto"></v-text-field>
+        <v-text-field label="Descrição do Animal" v-model="foto"></v-text-field>
         <v-btn flat class="sucess mx-0 mt-3" @click="enviar">Cadastrar</v-btn>
       </v-form>
     </v-card-text>
